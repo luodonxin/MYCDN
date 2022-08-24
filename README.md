@@ -1,0 +1,2 @@
+# MYCDN
+jsDelivr CDN
